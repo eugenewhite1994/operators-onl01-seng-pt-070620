@@ -8,6 +8,7 @@ def unsafe?(speed)
    puts false
 end
 end
+unsafe?(30)
 
 
 
