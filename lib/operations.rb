@@ -2,8 +2,8 @@
 def unsafe?(speed)
   speed = 55
 if speed >= 60 ? true : false
-elsif speed <= 40 ? true : false
-elsif speed >= 40 ? false : true
+elsif speed <= 40 ? puts true : false
+elsif speed >= 40 ? puts false : true
 end
 end
 
