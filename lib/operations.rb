@@ -4,6 +4,6 @@ end
 
 
 
-# def not_safe?(speed)
+def not_safe?(speed)
   
-# condition_1 || condition_2 ? true : false
+condition_1 || condition_2 ? true : false
